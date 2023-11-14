@@ -1,0 +1,16 @@
+{
+  "name": "Rafale Token",
+  "description": "Rafale sous le soleil",
+  "image": "https://github.com/adriwolff/imageForNFT/blob/main/rafale_soleil.jpg",
+  "attributes": [
+      {
+          "trait_type": "Artefact",
+          "value": "Avion"
+      },
+      {
+          "trait_type": "Collection",
+          "value": "Genesis"
+      }
+  ]
+}
+  
