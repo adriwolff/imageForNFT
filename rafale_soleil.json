@@ -13,4 +13,32 @@
       }
   ]
 }
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Rafale Token"
+        },
+        "description": {
+            "type": "string",
+            "description": "Rafale sous le soleil"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://github.com/adriwolff/imageForNFT/blob/main/rafale_soleil.jpg"
+        }
+        "attributes": [
+          {
+              "trait_type": "Artefact",
+              "value": "Avion"
+          },
+          {
+              "trait_type": "Collection",
+              "value": "Genesis"
+          }
+          ]
+    }
+}
   
